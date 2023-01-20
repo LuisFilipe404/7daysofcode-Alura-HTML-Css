@@ -6,12 +6,12 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Optimus Tech**
 | :label: Tecnologias | html, css, javascript
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://7daysofcode-alura-html-css.vercel.app/
+| :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/LuisFilipe404/pictures/blob/main/Captura%20de%20tela%20de%202023-01-20%2014-04-57.png)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto desenvolvido após o fim do curso de HTML e CSS da Alura, ja com implementação de responsividade e javascript
